@@ -1,1 +1,3 @@
-class JobPortal()
+class JobPortal():
+    profile
+    name
